@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "bbox-annotation-tools"
 version = "1.0.0"
-description = "바운딩 박스 어노테이션 편집 및 분석 도구"
+description = "Bounding Box Annotation Editing and Analysis Tools"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [

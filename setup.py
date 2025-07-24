@@ -6,14 +6,14 @@ def read_readme():
     if os.path.exists("README.md"):
         with open("README.md", "r", encoding="utf-8") as fh:
             return fh.read()
-    return "바운딩 박스 어노테이션 편집 및 분석 도구"
+    return "Bounding Box Annotation Editing and Analysis Tools"
 
 setup(
     name="bbox-annotation-tools",
     version="1.0.0",
     author="LEEYH205",
     author_email="ejrdkachry@gmail.com",
-    description="바운딩 박스 어노테이션 편집 및 분석 도구",
+    description="Bounding Box Annotation Editing and Analysis Tools",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
     url="https://github.com/LEEYH205/bbox-annotation-tools",

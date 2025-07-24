@@ -5,8 +5,8 @@
 """
 
 __version__ = "1.0.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__author__ = "LEEYH205"
+__email__ = "ejrdkachry@gmail.com"
 
 from .bbox_gui_editor import BBoxEditor
 from .drug_code_viewer import DrugCodeViewer
