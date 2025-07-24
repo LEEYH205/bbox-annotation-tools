@@ -4,7 +4,7 @@
 이 패키지는 COCO 형식의 어노테이션 파일을 편집하고 분석하는 도구들을 제공합니다.
 """
 
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 __author__ = "LEEYH205"
 __email__ = "ejrdkachry@gmail.com"
 

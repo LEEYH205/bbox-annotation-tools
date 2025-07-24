@@ -10,7 +10,7 @@ def read_readme():
 
 setup(
     name="bbox-annotation-tools",
-    version="1.0.1",
+    version="1.0.2",
     author="LEEYH205",
     author_email="ejrdkachry@gmail.com",
     description="Bounding Box Annotation Editing and Analysis Tools",
