@@ -24,7 +24,7 @@ cd drug_obj_detection
 pip install -e .
 ```
 
-### 2. Install from PyPI (after release)
+### 2. Install from PyPI
 ```bash
 pip install bbox-annotation-tools
 ```
